@@ -1,4 +1,4 @@
-# PRODIGY_WD_2
+# PRODIGY_WD_02
 
 [index.html](https://github.com/user-attachments/files/24739945/index.html)
 <!DOCTYPE html>
